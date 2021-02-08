@@ -1,2 +1,2 @@
 - Membuat halaman login
-- Memcari template
+- Membuat halaman home
